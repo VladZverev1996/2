@@ -1,3 +1,6 @@
-a=5
 b=6
-print(b)
+c=5
+d=5
+v=2
+
+print(c,v,b)
